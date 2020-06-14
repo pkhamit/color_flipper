@@ -12,3 +12,7 @@ btn.addEventListener('click',function(){
 function getRandom(){
     return Math.floor(Math.random() * colors.length);
 }
+
+function getHexcolours(){
+    
+}
