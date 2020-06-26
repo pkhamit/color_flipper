@@ -11,4 +11,8 @@ btn.addEventListener('click',function(){
 
 function getRandom(){
     return Math.floor(Math.random() * colors.length);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dev
